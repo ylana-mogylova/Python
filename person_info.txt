@@ -1,4 +1,0 @@
-name: uliana; last_name: mogylova; email: ylana@gmail.com; phone number: 403-478-9747
-name: steven; last_name: elliott; email: steven@gmail.com; phone number: 403-901-9747
-name: brady; last_name: elliott; email: brady@gmail.com; phone number: 604-478-9747
-name: new_name; last_name: not_elliott; email: new_name@gmail.com; phone number: 604-456-6566
